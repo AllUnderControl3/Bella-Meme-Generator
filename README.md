@@ -1,1 +1,1 @@
-Readme placeholder
+Readme placeholder for Bella Meme generator.
